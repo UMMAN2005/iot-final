@@ -1,8 +1,5 @@
 # Q1 — Five Scientific Pillars of IoT (Research Notes)
 
-The five pillars per the question: Telematics, Big Data, Artificial Intelligence, Cloud,
-Data Exchange. The answer should describe each and its role.
-
 ## 1. Telematics
 - Definition: science of long-distance transmission of data from sensors and vehicles, combining telecom + informatics.
 - Role in IoT: provides the edge of the system — physical sensors/devices that perceive the world (location, motion, temperature, vehicle state).

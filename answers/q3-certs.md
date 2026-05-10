@@ -47,17 +47,8 @@ and fraud protection in software. CE/RED therefore covers hardware safety, commu
 angle. Every Teltonika, Arvento and Galileosky device described in Question 2 carries this
 mark.
 
-The same hardware/communication role outside the EU is filled by two regional certificates.
-**CCC (China Compulsory Certificate)**, issued by CNCA/CQC against GB standards, is mandatory
-for some 150 product categories sold on the Chinese market and covers electrical safety, EMC
-and (through SRRC) RF spectrum; for IT and telecom products it is increasingly tied to the
-Multi-Level Protection Scheme, which adds requirements on data storage. In the United States
-the equivalent is **FCC Part 15** (and Parts 22/24/27 for cellular bands), which limits radio
-emissions and ensures spectrum coexistence. Both are essentially hardware-and-communication
-certificates with no data-layer obligations.
-
 Taken together these five certificates form a layered security envelope around an IoT product.
-CE/RED, CCC and FCC certify the hardware and the radio. ETSI EN 303 645 certifies the device
+CE/RED certify the hardware and the radio. ETSI EN 303 645 certifies the device
 firmware and the on-device handling of secrets. ISO/IEC 30141 certifies the architecture in
 which all the entities are arranged. ISO/IEC 27001 finally certifies the organisation that
 operates the cloud back-end and protects the stored and transmitted user data. A serious IoT

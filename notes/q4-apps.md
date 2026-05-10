@@ -1,7 +1,5 @@
 # Q4 — IoT Applications: Business + Government (Research Notes)
 
-The exam asks for IoT in business AND government, with **3 SPECIFIC government examples**.
-
 ## Business-oriented IoT applications (sketch)
 - Industrial IoT / Industry 4.0: predictive maintenance on factory machines, digital twins (Siemens, GE Predix), connected supply-chain.
 - Logistics & fleet management: Wialon-platform fleets using Teltonika/Galileosky devices for cargo monitoring, eco-driving, fuel-theft detection.
@@ -34,12 +32,3 @@ The exam asks for IoT in business AND government, with **3 SPECIFIC government e
 - X-Road is the secure data-exchange layer that interconnects Estonian state registers, banks, hospitals and IoT systems.
 - Allied with: digital identity (eID, Mobile-ID), e-Residency, e-Health (sensor data from medical devices feeding the patient portal), e-Tax, i-Voting.
 - Role of IoT: government IoT sensors (traffic, environment, smart grids) ride on X-Road to share data securely with citizens and other agencies — the protocol fabric of a digital state.
-
-## Optional bonus government examples
-- Dubai Smart City / Smart Dubai
-- South Korean Songdo IBD (pneumatic waste tubes, ubiquitous sensors)
-- China Hangzhou City Brain (Alibaba Cloud + IoT cameras for traffic-light optimisation)
-
-## Picks for the 2-page answer
-- Business: short examples (industrial predictive maintenance + fleet/logistics + agriculture)
-- Government: Singapore Smart Nation + Barcelona Smart City + Estonia X-Road
